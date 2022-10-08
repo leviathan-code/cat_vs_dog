@@ -6,7 +6,7 @@
 
 ## For frontend
 ### Install (in ..\frontend)
-    npm install
+    npm install --force
 ### Activate
     npm start
     
@@ -16,6 +16,12 @@
 ### Creat a venv
 
     python3 -m venv .venv
+Or
+
+    python -m venv .venv
+Or
+
+    py -m venv .venv
 ## &#128267; Activation
 
 ### Windows
