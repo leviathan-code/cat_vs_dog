@@ -2,7 +2,7 @@
 
 - Website with integrated Convolutional Neural Network (CNN)&#129454;&#128008;
 ## &#128187; Clone project
-### `git clone https://github.com/leviathan-code/cats_vs_dogs.git`
+### `git clone https://github.com/leviathan-code/cat_vs_dog.git`
 
 ## For frontend
 ### Install (in ..\frontend)
