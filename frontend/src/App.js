@@ -24,8 +24,8 @@ function App() {
     })
   }
 
-  const uploadImg = async (e, cb) =>{//event, callback
-    e.preventDefault();//важно
+  const uploadImg = async (e, cb) =>{
+    e.preventDefault();
     const formData = new FormData();
       formData.append(
          "file",
