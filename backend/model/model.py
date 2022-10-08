@@ -21,7 +21,7 @@ def prepare_img(image: Image.Image):
 def predict(image: Image.Image):
     image = prepare_img(image)
 
-    model = tf.keras.models.load_model(r"..\CNN")
+    model = tf.keras.models.load_model(r".\CNN.model")
     
     predictions = model.predict(image)[0]
     
