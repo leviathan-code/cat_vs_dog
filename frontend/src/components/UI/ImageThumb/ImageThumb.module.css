@@ -1,0 +1,8 @@
+.ImgBox{
+    padding: 10px;
+}
+
+img{
+    width: 50%;
+    border-radius: 8px;
+}
